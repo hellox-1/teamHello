@@ -71,3 +71,6 @@ if __name__ == "__main__":
     args = parser.parse_args()
     main(args.data, args.out)
     sys.exit(0)
+
+
+# ok that was the probem i was facing 
